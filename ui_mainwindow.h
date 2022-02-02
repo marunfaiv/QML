@@ -66,11 +66,13 @@ public:
         activeButton->setText(QApplication::translate("MainWindow", "Activate", nullptr));
         camLabel->setText(QString());
     } // retranslateUi
-
 };
 
-namespace Ui {
-    class MainWindow: public Ui_MainWindow {};
+namespace Ui
+{
+    class MainWindow : public Ui_MainWindow
+    {
+    };
 } // namespace Ui
 
 QT_END_NAMESPACE

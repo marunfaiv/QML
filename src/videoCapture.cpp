@@ -4,8 +4,6 @@
 #include <thread>
 #include <unistd.h>
 
-using namespace std::chrono;
-
 VideoCapture::VideoCapture(QObject *parent)
     : QThread{parent}, cap{ID_VIDEO}
 {
@@ -23,7 +21,6 @@ void VideoCapture::run()
         while (true)
         {
             // cv::waitKey(1);
-            // sleep_for(nanoseconds(500));
             usleep(50000);
             // cap >> frame;
             cap.read(frame);

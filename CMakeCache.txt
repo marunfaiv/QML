@@ -239,9 +239,6 @@ Qt5Gui_DIR:PATH=/usr/lib/x86_64-linux-gnu/cmake/Qt5Gui
 //The directory containing a CMake configuration file for Qt5Network.
 Qt5Network_DIR:PATH=/usr/lib/x86_64-linux-gnu/cmake/Qt5Network
 
-//The directory containing a CMake configuration file for Qt5Positioning.
-Qt5Positioning_DIR:PATH=Qt5Positioning_DIR-NOTFOUND
-
 //The directory containing a CMake configuration file for Qt5Qml.
 Qt5Qml_DIR:PATH=/usr/lib/x86_64-linux-gnu/cmake/Qt5Qml
 
