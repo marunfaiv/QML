@@ -1,0 +1,6 @@
+/home/arya/project/QML/CMakeFiles/rebuild_cache.dir
+/home/arya/project/QML/CMakeFiles/edit_cache.dir
+/home/arya/project/QML/CMakeFiles/qml_node.dir
+/home/arya/project/QML/CMakeFiles/qml.dir
+/home/arya/project/QML/CMakeFiles/qml_node_autogen.dir
+/home/arya/project/QML/CMakeFiles/qml_autogen.dir

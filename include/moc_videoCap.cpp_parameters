@@ -1,0 +1,5 @@
+-I/home/arya/project/QML
+-I/home/arya/project/QML
+-o
+/home/arya/project/QML/include/moc_videoCap.cpp
+/home/arya/project/QML/include/videoCap.h

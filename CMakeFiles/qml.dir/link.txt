@@ -1,0 +1,2 @@
+/usr/bin/ar qc libqml.a  CMakeFiles/qml.dir/qml_autogen/mocs_compilation.cpp.o CMakeFiles/qml.dir/src/main.cpp.o CMakeFiles/qml.dir/src/mainwindow.cpp.o CMakeFiles/qml.dir/src/videoCapture.cpp.o CMakeFiles/qml.dir/include/moc_mainwindow.cpp.o CMakeFiles/qml.dir/include/moc_videoCapture.cpp.o
+/usr/bin/ranlib libqml.a
